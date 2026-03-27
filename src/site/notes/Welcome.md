@@ -137,7 +137,7 @@ Above the World Plane are the **Benign Planes**, and beyond them rises the **Div
 
 In a position below the Mundane Plane are the **Malign Planes**, such as the **Abyss** or the **Nine Hells**. Beyond these extends the **Plane of Nothingness**. Permeating them all is the **Plane of Negative Energy**.
 
-At the same "height" as the Worldly Plane, but disconnected from it, there are multiple independent planes, such as the planes of **Law** and **Chaos**, the **Plane of Blood** or the **Chromatic Plane**.
+At the same "height" as the Mundane Plane, but disconnected from it, there are multiple independent planes, such as the planes of **Law** and **Chaos**, the **Plane of Blood** or the **Chromatic Plane**.
 
 Surrounding the other planes in a perfect circle are the **Elemental Planes**, such as the **Fire**, **Water**, **Air** or **Earth Planes**. These are further divided into _Sub Planes_ and _Paraplanes_, formed by combinations between elements and positive and negative energies. However, many Orekan scholars consider that all of them actually form **one single continuous Elemental Plane**, organised as a circular spectrum connecting its different regions.
 
