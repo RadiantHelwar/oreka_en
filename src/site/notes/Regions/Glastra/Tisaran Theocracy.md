@@ -6,7 +6,7 @@
 # The Tisaran Theocracy
 
 - **Capital**: [[Regions/Glastra/Deepreach\|Deepreach]]
-- **Population**: [[Especies/Zaharak\|Zaharak]] (majority), Lizardfolk, Faunos
+- **Population**: [[Species/Zaharak\|Zaharak]] (majority), Lizardfolk, Faunos
 
 ## The Waiting Nation
 

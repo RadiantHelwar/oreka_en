@@ -49,8 +49,8 @@ Aureon represents the Golden Light, Order, Faith and Good in its own right. He i
 
 Other minor religions exist, and are commonly tolerated in areas where the Church of Aureon is dominant:
 
-- The [[Especies/Kitraki\|Kitraki]] worship **Itia** as their creator.
-- A large part of the [[Especies/Zaharak\|Zaharak]] worship **Tisara** as their protector and benefactor.
+- The [[Species/Kitraki\|Kitraki]] worship **Itia** as their creator.
+- A large part of the [[Species/Zaharak\|Zaharak]] worship **Tisara** as their protector and benefactor.
 - Elves are wont to worship certain celestial bodies (the Sun, the Moons, the Stars), and **Lady Mireon** as their most ancient ancestor.
 - The leader of the dwarven pantheon is **Primarch Lureas**, known for his loud voice and his skill at forging, followed by all the other Primarchs.
 - Among the simpler folk, **Mill**, God of Fire and Protection, is worshipped to a greater or lesser extent. In the Ergonian Empire, Mill is known as the *Child of the Sun*.
@@ -68,9 +68,9 @@ The various legal units throughout Oreka
 >	- [[Regions/Glastra/Lakua/Kentron\|Kentron]] - The lake, the largest lake in the world, whose waters dominate the landscape.
 >- [[Regions/Glastra/Ieró\|Ieró]] - The capital of the Church of Aureon, crowned by the imposing [[Sanctum\|Sanctum]] Palace.
 >- [[Regions/Glastra/Haizea\|Haizea]] - The land of cliffs and high nobility.
->- [[Regions/Glastra/Kertutai\|Kertutai]] - the hive of the [[Especies/Kitraki\|Kitraki]].
+>- [[Regions/Glastra/Kertutai\|Kertutai]] - the hive of the [[Species/Kitraki\|Kitraki]].
 >- [[Regions/Glastra/Harana\|Harana]] - the forbidden valley.
->- [[Regions/Glastra/Tisaran Theocracy\|Tisaran Theocracy]] - the kingdom that the [[Especies/Zaharak\|Zaharak]] forged for themselves.
+>- [[Regions/Glastra/Tisaran Theocracy\|Tisaran Theocracy]] - the kingdom that the [[Species/Zaharak\|Zaharak]] forged for themselves.
 >- [[Regions/Glastra/Irrigos\|Irrigos]] - The Dominion of the Sea, a merchant Dominion whose mighty navy dominates the shipping lanes.
 >- [[Regions/Glastra/Bardhore\|Bardhore]] - The ancestral home of the dwarves, who have ruled both above and below the mountains for millennia.
 >- [[Regions/Glastra/Demenor\|Demenor]] - The Old Empire; today, a young republic relearning how to walk before aspiring to run.
@@ -104,7 +104,7 @@ Similarly, species such as the **Leonin**, **Centaurs** or other less common peo
 
 In Oreka, the influence of other planes can manifest in individuals of virtually any species. Those marked by this influence are collectively known as **Planetouched**.
 
-Among them are the [[Especies/Tieflings\|Tieflings]] , [[Especies/Aasimar\|Aasimar]] and [[Especies/Genasi\|Genasi]] whose characteristics reflect the imprint of extra-planar forces.
+Among them are the [[Species/Tieflings\|Tieflings]] , [[Species/Aasimar\|Aasimar]] and [[Species/Genasi\|Genasi]] whose characteristics reflect the imprint of extra-planar forces.
 
 Unlike in some traditions, in Oreka these lineages are not tied to a single base species. Planar influence can manifest itself in any mortal people. Thus, it is possible to find:
 
@@ -119,10 +119,10 @@ The cultural or physical particularities of these peoples may vary according to 
 
 ## Native species unique to Oreka
 
-- The [[Especies/Zaharak\|Zaharak]], descendants of dinosaurs.
-- The [[Especies/Kitraki\|Kitraki]], eusocial humanoid wasps.
+- The [[Species/Zaharak\|Zaharak]], descendants of dinosaurs.
+- The [[Species/Kitraki\|Kitraki]], eusocial humanoid wasps.
 - The [[Lore/Ancestral Lineages\|Ancestral Lineages]], are made up of individuals with special powers, which set them apart from their fellows.
-- Ancient Elvish Lineages beyond the three main ones: [[Especies/The Other Elvish Races of Oreka\|The Other Elvish Races of Oreka]] 
+- Ancient Elvish Lineages beyond the three main ones: [[Species/The Other Elvish Races of Oreka\|The Other Elvish Races of Oreka]] 
 
 
 ## Cosmology

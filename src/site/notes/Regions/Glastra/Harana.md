@@ -11,8 +11,8 @@ The interior of the fault has a wet and unstable climate, with sudden rainfall t
 
 The fauna is equally unique: a variety of prehistoric creatures thrive in the ecosystem, from small predators to huge river reptiles. Harana is an abundant but dangerous environment, where nature has not been tamed.
 
-Diverse [[Especies/Zaharak\|Zaharak]] clans inhabit the rift nomadically, considering it their ancestral territory. Their knowledge of the terrain is profound, and although they rarely act without provocation, they defend their routes and resources with determination.
+Diverse [[Species/Zaharak\|Zaharak]] clans inhabit the rift nomadically, considering it their ancestral territory. Their knowledge of the terrain is profound, and although they rarely act without provocation, they defend their routes and resources with determination.
 
-The country of [[Regions/Glastra/Kertutai\|Kertutai]], home to the [[Especies/Kitraki\|Kitraki]] maintains the only causeway that crosses Harana without descending into it. They also monitor the region and control the most secure access points. Occasional patrols monitor resource extraction and activity in strategic areas.
+The country of [[Regions/Glastra/Kertutai\|Kertutai]], home to the [[Species/Kitraki\|Kitraki]] maintains the only causeway that crosses Harana without descending into it. They also monitor the region and control the most secure access points. Occasional patrols monitor resource extraction and activity in strategic areas.
 
 Harana attracts explorers and adventurers with rumours of magical resources and unique species, but few expeditions are as easy as expected. It is a place where wildlife, flora and magic do not welcome civilisation.
