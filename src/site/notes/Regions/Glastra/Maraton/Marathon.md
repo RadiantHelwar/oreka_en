@@ -12,7 +12,7 @@ _The Island of the Veil_
 - **Type**: Island-state
 - **Location**: Off the coasts of Las Comarcas and Evisnos, south of the mainland of [[Regions/Glastra/Glastra\|Glastra]] 
 - **Capital**: [[Regions/Glastra/Maraton/Inika\|Inika]] 
-- **De facto ruler**: [[PNJs/Selandra Kaivea\|Selandra Kaivea]] "The Red"
+- **De facto ruler**: [[NPC/Selandra Kaivea\|Selandra Kaivea]] "The Red"
 - **Dominant organisation**: [[Lore/Organizations/Guilds/The Veil\|The Veil]] 
 - **Legal army**: The Nacre Guard
 - **Weather**: Warm, coastal, constant breezes and clear skies most of the year.
@@ -29,7 +29,7 @@ The capital is [[Regions/Glastra/Maraton/Inika\|Inika]], a northern coastal city
 
 Approximately six hundred years ago, Marathon was ruled by violent gangs who had ousted the legitimate rulers. The island lived in a state of constant conflict, where power changed hands by force and the population suffered the consequences.
 
-Everything changed with the arrival of [[PNJs/Selandra Kaivea\|Selandra Kaivea]], known as _The Red_. After defeating the most feared leader on the island, she did not establish a regime of terror, but a system based on discipline, hierarchy and clear rules. Out of this process, the Veil was born as a structured organisation.
+Everything changed with the arrival of [[NPC/Selandra Kaivea\|Selandra Kaivea]], known as _The Red_. After defeating the most feared leader on the island, she did not establish a regime of terror, but a system based on discipline, hierarchy and clear rules. Out of this process, the Veil was born as a structured organisation.
 
 Selandra understood that chaos was bad for business. Under her leadership, the island ceased to be a territory of scattered gangs and became a functional state where crime, far from disappearing, was integrated into a regulated system.
 

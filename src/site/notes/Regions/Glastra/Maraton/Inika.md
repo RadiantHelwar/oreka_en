@@ -63,6 +63,6 @@ The streets are filled with music, lights, parades, temporary markets and shows.
 
 ## Government and Control
 
-Although Inika has a mayor and a formal administration, the real authority in the city belongs to [[PNJs/Selandra Kaivea\|Selandra Kaivea]] and the Veil system. The coexistence between legal government and underlying power is one of the keys to the balance of the city.
+Although Inika has a mayor and a formal administration, the real authority in the city belongs to [[NPC/Selandra Kaivea\|Selandra Kaivea]] and the Veil system. The coexistence between legal government and underlying power is one of the keys to the balance of the city.
 
 While public laws are enforced on the surface, the deep order of Inika is maintained by the structural influence of the Veil.

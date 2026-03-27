@@ -7,14 +7,14 @@
 
 ## The Ancient Empire - The Republic of the Circles
 
-For almost ten thousand years, Demenor lived under the shadow of a single ruler: [[PNJs/Koptrakhos\|Koptrakhos]], the _Eternal Emperor_. His figure, more myth than man in the last millennia, marked every structure of the country. He was neither a tireless conqueror nor a capricious despot. He ruled with distance. With calculation. With a coolness that seemed to need neither love nor approval, but only continuity.
+For almost ten thousand years, Demenor lived under the shadow of a single ruler: [[NPC/Koptrakhos\|Koptrakhos]], the _Eternal Emperor_. His figure, more myth than man in the last millennia, marked every structure of the country. He was neither a tireless conqueror nor a capricious despot. He ruled with distance. With calculation. With a coolness that seemed to need neither love nor approval, but only continuity.
 
 His main concern was not expansion, but permanence.
-[[PNJs/Koptrakhos\|Koptrakhos]] never attempted to extend his rule beyond the borders of Demenor. Some say that he could not take his curse to other lands; others say that he simply did not wish to leave the territory where it protected him. Neighbouring nations, for their part, also showed little interest in invading a land marked by imperial spells and curses. After the first conflicts and tensions, Demenor fell into a practical isolation that, far from damaging it, consolidated its identity. The Empire could exist on its own.
+[[NPC/Koptrakhos\|Koptrakhos]] never attempted to extend his rule beyond the borders of Demenor. Some say that he could not take his curse to other lands; others say that he simply did not wish to leave the territory where it protected him. Neighbouring nations, for their part, also showed little interest in invading a land marked by imperial spells and curses. After the first conflicts and tensions, Demenor fell into a practical isolation that, far from damaging it, consolidated its identity. The Empire could exist on its own.
 
 ## The Empire and Magic
 
-The centralisation of magic was the great structural legacy of [[PNJs/Koptrakhos\|Koptrakhos]]. All practitioners of the Art were obliged to train and reside in the Circles or the curse that covered the land would cause them bad luck that would increase exponentially until they died. The Circles were arcane-administrative institutions scattered throughout the land. There, knowledge was accumulated, advances were recorded, theory was discussed. With the wizards concentrated and subject to a binding oath to the Emperor, the magical evolution of Demenor was dizzying. What elsewhere was scattered tradition became a systematic corpus there.
+The centralisation of magic was the great structural legacy of [[NPC/Koptrakhos\|Koptrakhos]]. All practitioners of the Art were obliged to train and reside in the Circles or the curse that covered the land would cause them bad luck that would increase exponentially until they died. The Circles were arcane-administrative institutions scattered throughout the land. There, knowledge was accumulated, advances were recorded, theory was discussed. With the wizards concentrated and subject to a binding oath to the Emperor, the magical evolution of Demenor was dizzying. What elsewhere was scattered tradition became a systematic corpus there.
 
 Magic ceased to be a privilege or a mystery and became a tool.
 

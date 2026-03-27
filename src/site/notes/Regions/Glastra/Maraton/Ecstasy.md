@@ -14,7 +14,7 @@ No blood is shed in Ecstasy.
 
 ## The Red Rule
 
-The operation of the venue is governed by an unbreakable principle known as **The Red Rule**, established by [[PNJs/Selandra Kaivea\|Selandra Kaivea]], nicknamed _The Red_. This rule holds that death only has meaning when it serves a clear purpose, that the word given is sacred and that within Ecstasy no one may kill.
+The operation of the venue is governed by an unbreakable principle known as **The Red Rule**, established by [[NPC/Selandra Kaivea\|Selandra Kaivea]], nicknamed _The Red_. This rule holds that death only has meaning when it serves a clear purpose, that the word given is sacred and that within Ecstasy no one may kill.
 
 It is not a recommendation, nor a symbolic tradition. It is an absolute law. Breaking it does not only mean making an enemy of the club, but directly defying the authority of [[Lore/Organizations/Guilds/The Veil\|The Veil]]. That is why even the most dangerous individuals in [[Regions/Oreka\|Oreka]] respect the space of Ecstasy when they cross its gates.
 
@@ -22,7 +22,7 @@ In fact, Selandra herself offers to mediate between disputes, and can offer with
 
 ## Selandra's Office
 
-Inside the Ecstasy is the alcove from which [[PNJs/Selandra Kaivea\|Selandra Kaivea]] governs [[Regions/Glastra/Maraton/Marathon\|Marathon]] and coordinates the operations of [[Lore/Organizations/Guilds/The Veil\|The Veil]]. It is neither a throne room nor a traditional office, but an intimate space carefully protected by multiple magical safeguards. These defences not only ensure her safety, but allow her to control the relationship between the space and the rest of the club.
+Inside the Ecstasy is the alcove from which [[NPC/Selandra Kaivea\|Selandra Kaivea]] governs [[Regions/Glastra/Maraton/Marathon\|Marathon]] and coordinates the operations of [[Lore/Organizations/Guilds/The Veil\|The Veil]]. It is neither a throne room nor a traditional office, but an intimate space carefully protected by multiple magical safeguards. These defences not only ensure her safety, but allow her to control the relationship between the space and the rest of the club.
 
 Selandra can listen to the music in the room if she chooses, or muffle it to absolute silence. She can make her alcove visible to whomever she chooses, or keep it veiled from the eyes of others. In essence, the space responds to her will without breaking the public neutrality of Ecstasy. Thus, the place functions simultaneously as a command centre and as a social stage.
 
