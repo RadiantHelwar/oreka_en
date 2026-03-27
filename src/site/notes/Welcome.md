@@ -3,7 +3,7 @@
 ---
 
 
-# Oreka: The Balance of Light and the Roots of the Past3
+# Oreka: The Balance of Light and the Roots of the Past
 
 ![oreka-logo-gold.png](/img/user/Extras/oreka-logo-gold.png)
 
