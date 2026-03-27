@@ -20,13 +20,13 @@ The most common forms are:
 ### Nightmare Lords
 Incarnations of mortal fears and traumas. Their function is to confront dreamers with their past, testing them during their rest. Though feared, many sages believe they serve a necessary function: to temper the spirit of mortals.
 
-### Guardians of Identity
+### Identity Guardians
 Figments that protect dreamers from the mental deterioration that constant exposure to dream chaos could produce. Their dreams are often comforting, familiar or protective, helping to preserve the emotional stability and identity of the sleeper.
 
 ### Night Terrors
 Entities that feed on the suffering of mortals. They induce intense and disturbing nightmares, drawing energy from the fear, anguish and despair they provoke.
 
-### Chaos Warlocks
+### Chaos Witchlings
 The most common form among the Figments. These entities exist without direct attention to mortals, devoted to their own whims and interests. Their mere presence provokes strange, chaotic or seemingly absurd dreams, which can produce any effect on those who experience them.
 
 The regions of the Dream Plane closest to the Mundane Plane tend to be more coherent and stable, reflecting dreams that are more structured or influenced by mortal reality. However, as one moves deeper into the plane, logic dissolves completely and dreams become an endless whirlwind of imagination, memory and desire.
