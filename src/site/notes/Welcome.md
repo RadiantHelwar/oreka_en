@@ -9,7 +9,7 @@
 
 Three hundred years ago, the world of [[Regions/Oreka\|Oreka]] was almost plunged into darkness. The [[Lore/Wave of Darkness/Wave of Darkness\|Wave of Darkness]], led by the fearsome [[Lore/Wave of Darkness/Dark Lord\|Dark Lord Menras]] was held back only by the value of heroine [[Lore/Wave of Darkness/Sera\|Sera]] and the divine grace of [[Lore/Pantheons/Aureon (God)\|Aureon]], the Saviour. Since then, order and peace have flourished under the watchful eye of the [[Lore/Pantheons/Church of Aureon\|Church of Aureon]] and the golden light emanating from the spectral branches of the [[Regions/Glastra/Ilios\|Great Tree Ilios]].
 
-Today, the continent of [[Regions/Glastra/Glastra\|Glastra]] dresses up. In the majestic city-state of [[Regions/Glastra/Lakua/Riza\|Riza]] preparations are being finalised for the greatest festival the world has ever seen: the [[Lore/Wave of Darkness/Tercentenary of Victory\|Tercentenary of Victory]] A celebration of three centuries of light and prosperity with less than a month to go. Mercenaries, nobles, merchants, artists and peoples from every corner of the four continents converge under the glow of [[Regions/Glastra/Ilios\|Ilios]] to celebrate the return of its light and the heroes who made it possible.
+Today, the continent of [[Regions/Glastra/Glastra\|Glastra]] dresses up. In the majestic city-state of [[Regions/Glastra/Lakua/Riza\|Riza]] preparations are being finalised for the greatest festival the world has ever seen: the [[Lore/Wave of Darkness/Tercentenary of Victory\|Tercentenary of Victory]], a celebration of three centuries of light and prosperity with less than a month to begin. Mercenaries, nobles, merchants, artists and peoples from every corner of the four continents converge under the glow of [[Regions/Glastra/Ilios\|Ilios]] to celebrate the return of its light and the heroes who made it possible.
 
 Of the Dark Lord's shadows, only a small faction remains: the [[Lore/Wave of Darkness/Inmortal Army\|Inmortal Army]] directed by [[Lore/Wave of Darkness/Skia, the Princess of Shadows\|Skia, the Princess of Shadows]], the last of the lieutenants of [[Lore/Wave of Darkness/Dark Lord\|Menras]]. Fortunately, the Kingdom of [[Regions/Trabia/Adamas\|Adamas]] keeps it entrenched behind the [[Regions/Trabia/Pagos Glacier\|Pagos Glacier]] in the northern part of the continent of [[Regions/Trabia/Trabia\|Trabia]].
 
@@ -139,7 +139,7 @@ In a position below the Mundane Plane are the **Malign Planes**, such as the **A
 
 At the same "height" as the Worldly Plane, but disconnected from it, there are multiple independent planes, such as the planes of **Law** and **Chaos**, the **Plane of Blood** or the **Chromatic Plane**.
 
-Surrounding the other planes in a perfect circle are the **Elemental Planes**, such as the **Fire Plane**, **Water**, or **Earth**. These are further divided into **Sub Planes** and **Paraplanes**, formed by combinations between elements. However, many Orekan scholars consider that all of them actually form **one single continuous Elemental Plane**, organised as a circular spectrum connecting its different regions.
+Surrounding the other planes in a perfect circle are the **Elemental Planes**, such as the **Fire**, **Water**, **Air** or **Earth Planes**. These are further divided into _Sub Planes_ and _Paraplanes_, formed by combinations between elements and positive and negative energies. However, many Orekan scholars consider that all of them actually form **one single continuous Elemental Plane**, organised as a circular spectrum connecting its different regions.
 
 Finally, there are the farthest planes of reality:
 
@@ -148,4 +148,4 @@ Finally, there are the farthest planes of reality:
 - Beneath the Plane of Nothingness lies the **Oblivion**. It is believed that infernal beings abandon what remains of mortal souls there when they have finished playing with them. Many scholars maintain that the fragments that reach this plane are eventually absorbed into the very fabric of reality, recycled to sustain the balance of the other planes.
 
 
-WEB: https://oreka-eight.vercel.app/
+WEB: https://oreka-en.vercel.app/
