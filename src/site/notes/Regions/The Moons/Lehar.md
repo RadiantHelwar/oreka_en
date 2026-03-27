@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/regions/the-moons/lehar/"}
 ---
 
+# Lehar
 
 ## The Green Moon
 
