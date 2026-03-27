@@ -3,149 +3,149 @@
 ---
 
 
-# Oreka: El Equilibrio de la Luz y las Raíces del Pasado
+# Oreka: The Balance of Light and the Roots of the Past
 
 ![oreka-logo-gold.png](/img/user/Extras/oreka-logo-gold.png)
 
-Hace trescientos años, el mundo de [[Regiones/Oreka\|Oreka]] estuvo a punto de sumirse en las tinieblas. La [[Trasfondo/Ola de Oscuridad/Ola de Oscuridad\|Ola de Oscuridad]], liderada por el temible [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro Menras]], fue frenada únicamente por el valor de la heroína [[Trasfondo/Ola de Oscuridad/Sera\|Sera]] y la gracia divina de [[Trasfondo/Panteones/Aureon (Dios)\|Aureon]], el Salvador. Desde entonces, el orden y la paz han florecido bajo la vigilancia de la [[Trasfondo/Panteones/Iglesia de Aureon\|Iglesia de Aureon]] y la luz dorada que emana de las ramas espectrales del [[Regiones/Glastra/Ilios\|Gran Árbol de Ilios]].
+Three hundred years ago, the world of [[Regiones/Oreka\|Oreka]] was almost plunged into darkness. The [[Trasfondo/Ola de Oscuridad/Wave of Darkness\|Wave of Darkness]], led by the fearsome [[Trasfondo/Ola de Oscuridad/Dark Lord\|Señor Oscuro Menras]] was held back only by the value of heroine [[Trasfondo/Ola de Oscuridad/Sera\|Sera]] and the divine grace of [[Trasfondo/Panteones/Aureon (God)\|Aureon]], the Saviour. Since then, order and peace have flourished under the watchful eye of the [[Trasfondo/Panteones/Church of Aureon\|Church of Aureon]] and the golden light emanating from the spectral branches of the [[Regiones/Glastra/Ilios\|Great Tree Ilios]].
 
-Hoy, el continente de [[Regiones/Glastra/Glastra\|Glastra]] se viste de gala. En la majestuosa ciudad-estado de [[Regiones/Glastra/Lakua/Riza\|Riza]], se ultiman los preparativos para el festival más grandioso que el mundo haya visto: el [[Trasfondo/Ola de Oscuridad/Tricentenario de la Victoria\|Tricentenario de la Victoria]], una celebración de tres siglos de luz y prosperidad para el que queda menos de un mes. Mercenarios, nobles y aventureros de todos los rincones de los cuatro continentes convergen bajo el brillo del [[Regiones/Glastra/Ilios\|Árbol]] para celebrar el retorno de su luz y a los héroes que lo hicieron posible.
+Today, the continent of [[Regiones/Glastra/Glastra\|Glastra]] dresses up. In the majestic city-state of [[Regiones/Glastra/Lakua/Riza\|Riza]] preparations are being finalised for the greatest festival the world has ever seen: the [[Trasfondo/Ola de Oscuridad/Tercentenary of Victory\|Tercentenary of Victory]] A celebration of three centuries of light and prosperity with less than a month to go. Mercenaries, nobles, merchants, artists and peoples from every corner of the four continents converge under the glow of [[Regiones/Glastra/Ilios\|Ilios]] to celebrate the return of its light and the heroes who made it possible.
 
-De las sombras del Señor Oscuro solo queda una pequeña facción: el [[Trasfondo/Ola de Oscuridad/Ejército Inmortal\|Ejército Inmortal]], dirigido por [[Trasfondo/Ola de Oscuridad/Skia, la Princesa de las Sombras\|Skia, la Princesa de las Sombras]], la última de los lugartenientes de [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Menras]]. Afortunadamente, el [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]] la mantiene atrincherada tras el [[Regiones/Trabia/Glaciar de Pagos\|Glaciar de Pagos]], al norte del continente de [[Regiones/Trabia/Trabia\|Trabia]]. 
+Of the Dark Lord's shadows, only a small faction remains: the [[Trasfondo/Ola de Oscuridad/Inmortal Army\|Inmortal Army]] directed by [[Trasfondo/Ola de Oscuridad/Skia, the Princess of Shadows\|Skia, the Princess of Shadows]], the last of the lieutenants of [[Trasfondo/Ola de Oscuridad/Dark Lord\|Menras]]. Fortunately, the Kingdom of [[Regiones/Trabia/Adamas\|Adamas]] keeps it entrenched behind the [[Regiones/Trabia/Pagos Glacier\|Pagos Glacier]] in the northern part of the continent of [[Regiones/Trabia/Trabia\|Trabia]].
 
-La celebración del Tricentenario promete ser espectacular, y con tantos dignatarios, mercaderes y otras gentes poderosas reuniéndose en un mismo sitio, parece que será también un encuentro lucrativo, a la par que peligroso.
+The Tercentenary celebration promises to be spectacular, and with so many dignitaries, merchants and other powerful people gathering in one place, it looks set to be a lucrative as well as dangerous gathering.
 
-> [!quote] Sazzalazz, Poeta de las Escamas Verdes
-> _Como un olivo que oculta sus nudos bajo una corteza dorada, la paz de Oreka parece inquebrantable, pero incluso el árbol más alto puede temblar si sus raíces más profundas comienzan a despertar._
-
-
-# El Mundo de Oreka
+> [!quote] Sazzalazz, Poet of the Green Scales
+> Like an olive tree that hides its knots beneath a golden bark, the peace of Oreka seems unshakable, but even the tallest tree may tremble if its deepest roots begin to awaken.
 
 
-## Ubicaciones
+# The World of Oreka
 
-El mundo está dividido en cuatro continentes:
-- [[Regiones/Glastra/Glastra\|Glastra]]
-- [[Regiones/Trabia/Trabia\|Trabia]]
-- [[Regiones/Tomoe/Tomoe\|Tomoe]]
-- [[Regiones/Serra/Serra\|Serra]]
 
-## Organizaciones
+## Locations
 
-Las Organizaciones mas conocidas son los [[Trasfondo/Organizaciones/Gremios/Grandes Gremios\|Grandes Gremios]] de [[Trasfondo/Organizaciones/Gremios/Mercenarios\|Mercenarios]], los cuatro grupos mas conocidos de Oreka:
-- [[Trasfondo/Organizaciones/Gremios/Glaukos\|Glaukos]]
-- [[Trasfondo/Organizaciones/Gremios/Hoja\|Hoja]]
-- [[Trasfondo/Organizaciones/Gremios/Cierzo\|Cierzo]]
-- [[Trasfondo/Organizaciones/Gremios/Colmillo Rojo\|Colmillo Rojo]]
+The world is divided into four continents:
+- [[Regiones/Glastra/Glastra\|Glastra]] 
+- [[Regiones/Trabia/Trabia\|Trabia]] 
+- [[Regiones/Tomoe/Tomoe\|Tomoe]] 
+- [[Regiones/Serra/Serra\|Serra]] 
 
-Además, existe un quinto Gran Gremio, uno del que todos saben pero no reconocen, no oficialmente. Literalmente, el crimen organizado, cuyas redes abarcan todo Oreka: 
-- [[Trasfondo/Organizaciones/Gremios/El Velo\|El Velo]]
+## Organisations
 
-## Iglesia y religión
+The best known organisations are the [[Trasfondo/Organizaciones/Gremios/Great Guilds\|Great Guilds]] of [[Trasfondo/Organizaciones/Gremios/Mercenaries\|Mercenaries]], the four best known groups in Oreka:
+- [[Trasfondo/Organizaciones/Gremios/Glaukos\|Glaukos]] 
+- [[Trasfondo/Organizaciones/Gremios/Leaf\|Leaf]] 
+- [[Trasfondo/Organizaciones/Gremios/Northwind\|Northwind]] 
+- [[Trasfondo/Organizaciones/Gremios/Red Fang\|Red Fang]] 
 
-La [[Trasfondo/Panteones/Iglesia de Aureon\|Iglesia de Aureon]] es la religión mas extendida por toda Oreka. [[Trasfondo/Panteones/Aureon (Dios)\|Aureon]] es adorado como el Portavoz Divino, un antiguo héroe, antes humano, que se ganó la divinidad tras pactar con las anteriores deidades y salvar el mundo con sus hazañas. Los otros dioses del [[Trasfondo/Panteones/Panteón\|Panteón]] siguen siendo venerados como aspectos o interlocutores hacia Aureon.
+In addition, there is a fifth Great Guild, one that everyone knows about but does not recognise, not officially. Literally, the organised crime, whose networks span the whole of Oreka:
+- [[Trasfondo/Organizaciones/Gremios/The Veil\|The Veil]] 
 
-Aureon representa la Luz Dorada, el Orden, la Fe y el Bien por sí mismo. Es conocido como El Padre, El Salvador, El Señor Dorado.
+## Church and religion
 
-Otras religiones menores existen, y son comúnmente toleradas en las zonas en la que la Iglesia de Aureon es la dominante:
+The [[Trasfondo/Panteones/Church of Aureon\|Church of Aureon]] is the most widespread religion in Oreka. [[Trasfondo/Panteones/Aureon (God)\|Aureon]] is worshipped as the Divine Spokesman, an ancient hero, once human, who gained godhood after making a pact with the previous deities and saving the world with his deeds. The other gods of the [[Trasfondo/Panteones/Pantheon\|Pantheon]] are still revered as aspects or interlocutors to Aureon.
 
-- Las [[Especies/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
-- Gran parte de los [[Especies/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. 
-- Los elfos acostumbran a adorar ciertos astros (El Sol, las Lunas, las Estrellas), y a **Dama Mireon** como su mas antigua ancestro. 
-- El Líder del panteón enano es el **Primarca Lureas**, conocido por su vozarrón y su habilidad en la forja. 
-- Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida. 
-- Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. 
-- Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas. 
-- Los estudiosos de lo Arcano y aquellos que veneran la magia por encima de todo claman el nombre se **Kaure el Escolar**, primer maestro de lo arcano y ascendido a divinidad por sus propios medios.
-- [[Trasfondo/Panteones/Glorinth\|Glorinth]], diosa de la magia popular y la superchería.
+Aureon represents the Golden Light, Order, Faith and Good in its own right. He is known as The Father, The Saviour, The Golden Lord.
 
-## Reinos y Estados
+Other minor religions exist, and are commonly tolerated in areas where the Church of Aureon is dominant:
 
-Las distintas unidades legales de todo Oreka
+- The [[Especies/Kitraki\|Kitraki]] worship **Itia** as their creator.
+- A large part of the [[Especies/Zaharak\|Zaharak]] worship **Tisara** as their protector and benefactor.
+- Elves are wont to worship certain celestial bodies (the Sun, the Moons, the Stars), and **Lady Mireon** as their most ancient ancestor.
+- The leader of the dwarven pantheon is **Primarch Lureas**, known for his loud voice and his skill at forging, followed by all the other Primarchs.
+- Among the simpler folk, **Mill**, God of Fire and Protection, is worshipped to a greater or lesser extent. In the Ergonian Empire, Mill is known as the *Child of the Sun*.
+- Healers study **Amitera**, paragon of Healing Magic.
+- Those who dwell in the shadows mutter the name of **Roz** before their escapades.
+- Scholars of the Arcane and those who revere magic above all else cry out the name of **Kaure the Scholar**, first master of the arcane and ascended to divinity by his own power.
+- [[Trasfondo/Panteones/Glorinth\|Glorinth]], the goddess of folk magic and superchery.
+
+## Kingdoms and States
+
+The various legal units throughout Oreka
 >[!example]+ Glastra
-> - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
->	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
->	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, cuyas aguas dominan el paisaje.
->- [[Regiones/Glastra/Ieró\|Ieró]], capital de la Iglesia de Aureon, coronada por su imponente Palacio Sacro.
->- [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
->- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Especies/Kitraki\|Kitraki]].
->- [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
->- [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], el reino que los Zaharak forjaron para si mismos.
->- [[Regiones/Glastra/Irrigos\|Irrigos]], república de mercaderes cuya poderosa armada domina las rutas navales.
->- [[Regiones/Glastra/Bardhore\|Bardhore]], hogar ancestral de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
->- [[Regiones/Glastra/Demenor\|Demenor]], el Antiguo Imperio; hoy una joven república que reaprende a caminar antes de aspirar a correr.
->- [[Regiones/Glastra/Cínere\|Cínere]], tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
->- [[Regiones/Glastra/Evisnos\|Evisnos]], región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su Gobernador, Ilmathar, es un anciano y benevolente dragón de bronce.
->- [[Regiones/Glastra/Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
->- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la _Frontera del Sur_, es un país de climas templados, fértiles valles y una cultura orgullosa de su independencia. Durante siglos ha mantenido una guerra intermitente con el Imperio de [[Regiones/Tomoe/Ergo\|Ergo]], un conflicto que culminó hace veinte años con la pérdida de la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], hoy bajo dominio ergoniano.
->- [[Regiones/Glastra/Maraton/Maratón\|Maratón]], célebre por sus costas y destinos turísticos… y por una legalidad convenientemente flexible.
->- [[Regiones/Glastra/Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
->- [[Regiones/Glastra/Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque son recelosos de aquellos que se quedan.
+> - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - The central region of Glastra, located in the valley of the same name.
+>	- [[Regiones/Glastra/Lakua/Riza\|Riza]] - The continent's flagship city, the political and commercial centre.
+>	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]] - The lake, the largest lake in the world, whose waters dominate the landscape.
+>- [[Regiones/Glastra/Ieró\|Ieró]] - The capital of the Church of Aureon, crowned by the imposing [[Sanctum\|Sanctum]] Palace.
+>- [[Regiones/Glastra/Haizea\|Haizea]] - The land of cliffs and high nobility.
+>- [[Regiones/Glastra/Kertutai\|Kertutai]] - the hive of the [[Especies/Kitraki\|Kitraki]].
+>- [[Regiones/Glastra/Harana\|Harana]] - the forbidden valley.
+>- [[Regiones/Glastra/Tisaran Theocracy\|Tisaran Theocracy]] - the kingdom that the [[Especies/Zaharak\|Zaharak]] forged for themselves.
+>- [[Regiones/Glastra/Irrigos\|Irrigos]] - The Dominion of the Sea, a merchant Dominion whose mighty navy dominates the shipping lanes.
+>- [[Regiones/Glastra/Bardhore\|Bardhore]] - The ancestral home of the dwarves, who have ruled both above and below the mountains for millennia.
+>- [[Regiones/Glastra/Demenor\|Demenor]] - The Old Empire; today, a young republic relearning how to walk before aspiring to run.
+>- [[Regiones/Glastra/Cínere\|Cínere]] - land of contrasts: mighty rivers and lush jungles coexist with arid deserts and vast salt flats.
+>- [[Regiones/Glastra/Evisnos\|Evisnos]] - A region of hills and dragons. Inhabited mostly by Dragonborn, its Governor, Ilmathar, is an old and benevolent bronze dragon.
+>- [[Regiones/Glastra/The Shires\|The Shires]] - A region criss-crossed by rivers, lakes and deltas, divided into zones of different sizes, inhabitants and cultures. United only by a pact and a common will to work together.
+>- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]] - Known as the _Southern Frontier_, it's a country of temperate climates, fertile valleys and a culture proud of its independence. For centuries it has waged an intermittent war with the Empire of [[Regiones/Tomoe/Ergo\|Ergo]], a conflict that culminated twenty years ago in the loss of the [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], today under Ergonian rule.
+>- [[Regiones/Glastra/Maraton/Marathon\|Marathon]] - The City of Festivals: famous for its coastline and tourist destinations... and for a suitably flexible legality.
+>- [[Regiones/Glastra/Eldaren\|Eldaren]] home of the _Eldarenelin_, Elves of the Stars. Wary and jealous of their borders; few have seen their mountainous forests up close and lived to tell the tale.
+>- [[Regiones/Glastra/Ithiren\|Ithiren]] - land of the _Ithirenelin_, Elves of the Moons. Most friendly to other races among elvenkind, their beautiful silver kingdom welcomes visitors, though they are wary of those who stay.
 
 > [!example]+ Trabia
-> - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y vecina del Glaciar de Pagos. La escasez es habitual, pero las comunidades son férreas y solidarias; la desconfianza hacia los forasteros es casi una ley natural, y ni siquiera la realeza está exenta de ella.
-> - [[Regiones/Trabia/Edrakos\|Edrakos]], el Coliseo Legendario.
+> - Kingdom of [[Regiones/Trabia/Adamas\|Adamas]] - A cold-swept nordic land, neighbouring the [[Regiones/Trabia/Pagos Glacier\|Pagos Glacier]]. Scarcity is common, but the communities are tough and supportive; distrust of outsiders is almost a law of nature, and not even royalty is exempt from it.
+> - [[Regiones/Trabia/Edrakos\|Edrakos]] - the Legendary Coliseum.
 
 >[!example]+ Tomoe
->- [[Regiones/Tomoe/Ergo\|Ergo]], el Imperio del Sol, hogar de los _Anarenelin_, los Elfos del Sol. Su magia mantiene la abundancia allí donde gobiernan. Ergo ofrece unidad y prosperidad compartida frente a la escasez… mientras observa con atención qué tierras fértiles podrían necesitar su “protección”.
+>- [[Regiones/Tomoe/Ergo\|Ergo]] - The Empire of the Sun, home of the _Anarenelin_, the Sun Elves. Their magic maintains abundance where they rule. Ergo offers unity and shared prosperity in the face of scarcity... while keeping a watchful eye on which fertile lands might need their "protection".
 
 >[!example]+ Serra
->- [[Regiones/Serra/Rhanok\|Rhanok]], la isla principal de Serra, donde la Horda ha establecido su capital, junto a la sede de Colmillo Rojo.
+>- [[Regiones/Serra/Rhanok\|Rhanok]] The main island of Serra, where the Horde has established its capital, next to the headquarters of the Red Fang.
 
-## Las Especies de Oreka
+## The Species of Oreka
 
-Oreka es el hogar de una enorme diversidad de pueblos y culturas. Sin embargo, la mayoría de las civilizaciones del continente están formadas por los pueblos más comunes descritos en los textos clásicos: **humanos, elfos, enanos, medianos, gnomos y orcos**, entre otros. Estas especies constituyen el núcleo demográfico y cultural de la mayor parte de las sociedades conocidas.
+Oreka is home to an enormous diversity of peoples and cultures. However, most of the continent's civilisations are made up of the most common peoples described in the classical texts: **humans, elves, dwarves, halflings, gnomes and orcs**, among others. These species form the demographic and cultural core of most known societies.
 
-Junto a ellos conviven muchas otras especies menos numerosas pero perfectamente integradas en la vida cotidiana de Oreka. Entre estas destacan los **Faunos**, nombre con el que se conoce en este mundo a los individuos de ascendencia caprina que en otros lugares son llamados sátiros. A diferencia de los **Sátiros verdaderos**, criaturas del Plano Feérico de naturaleza más salvaje e impredecible, los Faunos de Oreka son un pueblo mortal plenamente integrado en sus sociedades.
+Alongside them live many other species that are less numerous but perfectly integrated into the daily life of Oreka. Among these are the **Fauns**, the name given in this world to individuals of goat ancestry that elsewhere are called satyrs. Unlike the **True Satyrs**, creatures of the Feywild of a wilder and more unpredictable nature, the Fauns of Oreka are a mortal people fully integrated into their societies.
 
-De forma similar, especies como los **Leonin**, **Centauros** u otros pueblos menos comunes pueden encontrarse en distintas regiones del mundo, aunque su presencia varía enormemente dependiendo del lugar.
+Similarly, species such as the **Leonin**, **Centaurs** or other less common peoples can be found in different regions of the world, though their presence varies greatly from place to place.
 
-### Herencia Planar
+### Planar Inheritance
 
-En Oreka, la influencia de otros planos puede manifestarse en individuos de prácticamente cualquier especie. Aquellos marcados por esta influencia son conocidos colectivamente como **Tocados por los Planos**.
+In Oreka, the influence of other planes can manifest in individuals of virtually any species. Those marked by this influence are collectively known as **Planetouched**.
 
-Entre ellos se encuentran los [[Especies/Tieflings\|Tieflings]], [[Especies/Aasimar\|Aasimar]] y [[Especies/Genasi\|Genasi]], cuyas características reflejan la huella de fuerzas extraplanares.
+Among them are the [[Especies/Tieflings\|Tieflings]] , [[Especies/Aasimar\|Aasimar]] and [[Especies/Genasi\|Genasi]] whose characteristics reflect the imprint of extra-planar forces.
 
-A diferencia de lo que ocurre en algunas tradiciones, en Oreka estos linajes no están ligados a una única especie base. La influencia planar puede manifestarse en cualquier pueblo mortal. Así, es posible encontrar:
+Unlike in some traditions, in Oreka these lineages are not tied to a single base species. Planar influence can manifest itself in any mortal people. Thus, it is possible to find:
 
-- Elfos con sangre infernal, conocidos en algunos lugares como **Fey'ri**.
-- Orcos marcados por poderes abisales, llamados **Tanarukk**.
-- Individuos de cualquier especie nacidos con rasgos celestiales, infernales o elementales.
+- Elves with infernal blood, known in some places as **Fey'ri**.
+- Orcs marked by abyssal powers, sometimes called **Tanarukk**.
+- Individuals of any species born with celestial, infernal or elemental traits.
 
-A pesar de estas diferencias de origen, todos estos individuos se agrupan bajo las categorías más conocidas de **Tiefling**, **Aasimar** o **Genasi**, ya que comparten rasgos sobrenaturales similares.
+Despite these differences in origin, all of these individuals are grouped under the more familiar categories of **Tiefling**, **Aasimar** or **Genasi**, as they share similar supernatural traits.
 
-Las particularidades culturales o físicas de estos pueblos pueden variar según su origen y región, pero sus capacidades generales siguen siendo las asociadas a sus linajes planares.
-
-
-## Especies nativas exclusivas de Oreka
-
-- Los [[Especies/Zaharak\|Zaharak]], descendientes de los dinosaurios.
-- Las [[Especies/Kitraki\|Kitraki]], avispas humanoides eusociales.
-- Los [[Trasfondo/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
-- Antiguos Linajes élficos mas allá de los tres principales: [[Especies/Otros Linajes Elficos\|Otros Linajes Elficos]]
+The cultural or physical particularities of these peoples may vary according to their origin and region, but their general abilities remain those associated with their planar lineages.
 
 
-## Cosmología
+## Native species unique to Oreka
 
-Oreka reside en el [[Trasfondo/Cosmologia/Plano Mundano\|Plano Mundano]], al igual que infinitos otros mundos materiales. Superpuesto al Plano Mundano se encuentra el **Plano Etéreo**, conocido como el _Límite de las Almas_, que lo permea por completo.
+- The [[Especies/Zaharak\|Zaharak]], descendants of dinosaurs.
+- The [[Especies/Kitraki\|Kitraki]], eusocial humanoid wasps.
+- The [[Trasfondo/Ancestral Lineages\|Ancestral Lineages]], are made up of individuals with special powers, which set them apart from their fellows.
+- Ancient Elvish Lineages beyond the three main ones: [[Especies/The Other Elvish Races of Oreka\|The Other Elvish Races of Oreka]] 
 
-La distancia entre los planos no se mide por separación física, sino por grado de interconectividad. No existe realmente un "arriba" o "abajo", ni un "cerca" o "lejos". Sin embargo, por simplicidad utilizaremos estos términos para describir sus relaciones.
 
-Los cuatro planos más cercanos al Plano Mundano son el [[Trasfondo/Cosmologia/Plano de las Sombras\|Plano de las Sombras]] o _Shadowfell_, el [[Trasfondo/Cosmologia/Plano Feérico\|Plano Feérico]] o _Feywild_, el [[Trasfondo/Cosmologia/Plano de los Sueños\|Plano de los Sueños]] y el [[Trasfondo/Cosmologia/Plano Astral\|Plano Astral]].
+## Cosmology
 
-Por encima del Plano Mundano se encuentran los **Planos Benignos**, y más allá de ellos se alza el **Plano Divino**. El **Plano de Energía Positiva** permea todos estos planos, de forma similar a como el Plano Etéreo permea el Plano Mundano, y es lo que los agrupa bajo la denominación de Planos Benignos.
+Oreka resides in the [[Trasfondo/Cosmologia/Mundane Plane\|Mundane Plane]], as well as infinitely many other material worlds. Superimposed upon the Mundane Plane and all other planes at its level, is the **Ethereal Plane**, known as the _Limit of Souls_, which permeates them completely.
 
-En una posición inferior al Plano Mundano se encuentran los **Planos Malignos**, como el **Abismo** o los **Nueve Infiernos**. Más allá de estos se extiende el **Plano de la Nada**. Permeando todos ellos se encuentra el **Plano de Energía Negativa**.
+The distance between the planes is not measured by physical separation, but by degree of interconnectivity. There is really no "above" or "below", no "near" or "far". However, for simplicity we will use these terms to describe their relationships.
 
-A la misma "altura" que el Plano Mundano, pero desconectados de él, existen múltiples planos independientes, como los planos de la **Ley** y el **Caos**, el **Plano de la Sangre** o el **Plano Cromático**.
+The four planes closest to the Mundane Plane are the [[Trasfondo/Cosmologia/Shadow Plane\|Shadow Plane]] or _Shadowfell_, the [[Trasfondo/Cosmologia/Fae Plane\|Fae Plane]] or _Feywild_, the [[Trasfondo/Cosmologia/Dream Plane\|Dream Plane]] and the [[Trasfondo/Cosmologia/Astral Plane\|Astral Plane]].
 
-Rodeando al resto de planos en un círculo perfecto se encuentran los **Planos Elementales**, como el **Plano del Fuego**, **Agua**, **Tierra** o **Frío**. Estos se dividen a su vez en **Subplanos** y **Paraplanos**, formados por combinaciones entre elementos. Sin embargo, muchos eruditos de Oreka consideran que todos ellos forman en realidad **un único Plano Elemental continuo**, organizado como un espectro circular que conecta sus diferentes regiones.
+Above the World Plane are the **Benign Planes**, and beyond them rises the **Divine Plane**. The **Positive Energy Plane** permeates all these planes, much as the Ethereal Plane permeates the Mundane Plane and it's four closer ones, and it is this that groups them together under the name of the Benign Planes.
 
-Finalmente se encuentran los planos más lejanos de la realidad:
+In a position below the Mundane Plane are the **Malign Planes**, such as the **Abyss** or the **Nine Hells**. Beyond these extends the **Plane of Nothingness**. Permeating them all is the **Plane of Negative Energy**.
 
-- Más allá del círculo de los Planos Elementales, en la región central del cosmos planar, se extiende el **Caos Elemental**, una extensión infinita de materia primordial en constante conflicto. Es un lugar inhóspito e incomprensible para casi toda forma de vida.
-- Por encima del Plano Divino se encuentra el **Plano de Fuga**, también conocido como _el Más Allá_. Se dice que los dioses guían las almas de los mortales hasta las puertas de este plano tras la muerte. Sin embargo, ni siquiera las deidades conocen qué existe realmente más allá de su umbral.
-- Bajo el Plano de la Nada se extiende el **Plano del Olvido**. Se cree que los seres infernales abandonan allí lo que queda de las almas mortales cuando han terminado de consumirlas. Muchos eruditos sostienen que los fragmentos que llegan a este plano son finalmente absorbidos por la estructura misma de la realidad, reciclándose para sostener el equilibrio del resto de planos.
+At the same "height" as the Worldly Plane, but disconnected from it, there are multiple independent planes, such as the planes of **Law** and **Chaos**, the **Plane of Blood** or the **Chromatic Plane**.
+
+Surrounding the other planes in a perfect circle are the **Elemental Planes**, such as the **Fire Plane**, **Water**, or **Earth**. These are further divided into **Sub Planes** and **Paraplanes**, formed by combinations between elements. However, many Orekan scholars consider that all of them actually form **one single continuous Elemental Plane**, organised as a circular spectrum connecting its different regions.
+
+Finally, there are the farthest planes of reality:
+
+- Beyond the circle of the Elemental Planes, in the central region of the planar cosmos, stretches the **Elemental Chaos**, an infinite expanse of primordial matter in constant conflict. It is a place inhospitable and incomprehensible to all forms of life.
+- Above the Divine Plane lies the **Fugue Plane**, also known as _The Beyond_. The gods are said to guide the souls of mortals to the gates of this plane after death. However, even the deities do not know what really exists beyond this threshold.
+- Beneath the Plane of Nothingness lies the **Oblivion**. It is believed that infernal beings abandon what remains of mortal souls there when they have finished playing with them. Many scholars maintain that the fragments that reach this plane are eventually absorbed into the very fabric of reality, recycled to sustain the balance of the other planes.
 
 
 WEB: https://oreka-eight.vercel.app/
