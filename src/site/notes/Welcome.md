@@ -7,11 +7,11 @@
 
 ![oreka-logo-gold.png](/img/user/Extras/oreka-logo-gold.png)
 
-Three hundred years ago, the world of [[Regiones/Oreka\|Oreka]] was almost plunged into darkness. The [[Trasfondo/Ola de Oscuridad/Wave of Darkness\|Wave of Darkness]], led by the fearsome [[Trasfondo/Ola de Oscuridad/Dark Lord\|Señor Oscuro Menras]] was held back only by the value of heroine [[Trasfondo/Ola de Oscuridad/Sera\|Sera]] and the divine grace of [[Trasfondo/Panteones/Aureon (God)\|Aureon]], the Saviour. Since then, order and peace have flourished under the watchful eye of the [[Trasfondo/Panteones/Church of Aureon\|Church of Aureon]] and the golden light emanating from the spectral branches of the [[Regiones/Glastra/Ilios\|Great Tree Ilios]].
+Three hundred years ago, the world of [[Regions/Oreka\|Oreka]] was almost plunged into darkness. The [[Lore/Wave of Darkness/Wave of Darkness\|Wave of Darkness]], led by the fearsome [[Lore/Wave of Darkness/Dark Lord\|Dark Lord Menras]] was held back only by the value of heroine [[Lore/Wave of Darkness/Sera\|Sera]] and the divine grace of [[Lore/Pantheons/Aureon (God)\|Aureon]], the Saviour. Since then, order and peace have flourished under the watchful eye of the [[Lore/Pantheons/Church of Aureon\|Church of Aureon]] and the golden light emanating from the spectral branches of the [[Regions/Glastra/Ilios\|Great Tree Ilios]].
 
-Today, the continent of [[Regiones/Glastra/Glastra\|Glastra]] dresses up. In the majestic city-state of [[Regiones/Glastra/Lakua/Riza\|Riza]] preparations are being finalised for the greatest festival the world has ever seen: the [[Trasfondo/Ola de Oscuridad/Tercentenary of Victory\|Tercentenary of Victory]] A celebration of three centuries of light and prosperity with less than a month to go. Mercenaries, nobles, merchants, artists and peoples from every corner of the four continents converge under the glow of [[Regiones/Glastra/Ilios\|Ilios]] to celebrate the return of its light and the heroes who made it possible.
+Today, the continent of [[Regions/Glastra/Glastra\|Glastra]] dresses up. In the majestic city-state of [[Regions/Glastra/Lakua/Riza\|Riza]] preparations are being finalised for the greatest festival the world has ever seen: the [[Lore/Wave of Darkness/Tercentenary of Victory\|Tercentenary of Victory]] A celebration of three centuries of light and prosperity with less than a month to go. Mercenaries, nobles, merchants, artists and peoples from every corner of the four continents converge under the glow of [[Regions/Glastra/Ilios\|Ilios]] to celebrate the return of its light and the heroes who made it possible.
 
-Of the Dark Lord's shadows, only a small faction remains: the [[Trasfondo/Ola de Oscuridad/Inmortal Army\|Inmortal Army]] directed by [[Trasfondo/Ola de Oscuridad/Skia, the Princess of Shadows\|Skia, the Princess of Shadows]], the last of the lieutenants of [[Trasfondo/Ola de Oscuridad/Dark Lord\|Menras]]. Fortunately, the Kingdom of [[Regiones/Trabia/Adamas\|Adamas]] keeps it entrenched behind the [[Regiones/Trabia/Pagos Glacier\|Pagos Glacier]] in the northern part of the continent of [[Regiones/Trabia/Trabia\|Trabia]].
+Of the Dark Lord's shadows, only a small faction remains: the [[Lore/Wave of Darkness/Inmortal Army\|Inmortal Army]] directed by [[Lore/Wave of Darkness/Skia, the Princess of Shadows\|Skia, the Princess of Shadows]], the last of the lieutenants of [[Lore/Wave of Darkness/Dark Lord\|Menras]]. Fortunately, the Kingdom of [[Regions/Trabia/Adamas\|Adamas]] keeps it entrenched behind the [[Regions/Trabia/Pagos Glacier\|Pagos Glacier]] in the northern part of the continent of [[Regions/Trabia/Trabia\|Trabia]].
 
 The Tercentenary celebration promises to be spectacular, and with so many dignitaries, merchants and other powerful people gathering in one place, it looks set to be a lucrative as well as dangerous gathering.
 
@@ -25,25 +25,25 @@ The Tercentenary celebration promises to be spectacular, and with so many dignit
 ## Locations
 
 The world is divided into four continents:
-- [[Regiones/Glastra/Glastra\|Glastra]] 
-- [[Regiones/Trabia/Trabia\|Trabia]] 
-- [[Regiones/Tomoe/Tomoe\|Tomoe]] 
-- [[Regiones/Serra/Serra\|Serra]] 
+- [[Regions/Glastra/Glastra\|Glastra]] 
+- [[Regions/Trabia/Trabia\|Trabia]] 
+- [[Regions/Tomoe/Tomoe\|Tomoe]] 
+- [[Regions/Serra/Serra\|Serra]] 
 
 ## Organisations
 
-The best known organisations are the [[Trasfondo/Organizaciones/Gremios/Great Guilds\|Great Guilds]] of [[Trasfondo/Organizaciones/Gremios/Mercenaries\|Mercenaries]], the four best known groups in Oreka:
-- [[Trasfondo/Organizaciones/Gremios/Glaukos\|Glaukos]] 
-- [[Trasfondo/Organizaciones/Gremios/Leaf\|Leaf]] 
-- [[Trasfondo/Organizaciones/Gremios/Northwind\|Northwind]] 
-- [[Trasfondo/Organizaciones/Gremios/Red Fang\|Red Fang]] 
+The best known organisations are the [[Lore/Organizations/Guilds/Great Guilds\|Great Guilds]] of [[Lore/Organizations/Guilds/Mercenaries\|Mercenaries]], the four best known groups in Oreka:
+- [[Lore/Organizations/Guilds/Glaukos\|Glaukos]] 
+- [[Lore/Organizations/Guilds/Leaf\|Leaf]] 
+- [[Lore/Organizations/Guilds/Northwind\|Northwind]] 
+- [[Lore/Organizations/Guilds/Red Fang\|Red Fang]] 
 
 In addition, there is a fifth Great Guild, one that everyone knows about but does not recognise, not officially. Literally, the organised crime, whose networks span the whole of Oreka:
-- [[Trasfondo/Organizaciones/Gremios/The Veil\|The Veil]] 
+- [[Lore/Organizations/Guilds/The Veil\|The Veil]] 
 
 ## Church and religion
 
-The [[Trasfondo/Panteones/Church of Aureon\|Church of Aureon]] is the most widespread religion in Oreka. [[Trasfondo/Panteones/Aureon (God)\|Aureon]] is worshipped as the Divine Spokesman, an ancient hero, once human, who gained godhood after making a pact with the previous deities and saving the world with his deeds. The other gods of the [[Trasfondo/Panteones/Pantheon\|Pantheon]] are still revered as aspects or interlocutors to Aureon.
+The [[Lore/Pantheons/Church of Aureon\|Church of Aureon]] is the most widespread religion in Oreka. [[Lore/Pantheons/Aureon (God)\|Aureon]] is worshipped as the Divine Spokesman, an ancient hero, once human, who gained godhood after making a pact with the previous deities and saving the world with his deeds. The other gods of the [[Lore/Pantheons/Pantheon\|Pantheon]] are still revered as aspects or interlocutors to Aureon.
 
 Aureon represents the Golden Light, Order, Faith and Good in its own right. He is known as The Father, The Saviour, The Golden Lord.
 
@@ -57,40 +57,40 @@ Other minor religions exist, and are commonly tolerated in areas where the Churc
 - Healers study **Amitera**, paragon of Healing Magic.
 - Those who dwell in the shadows mutter the name of **Roz** before their escapades.
 - Scholars of the Arcane and those who revere magic above all else cry out the name of **Kaure the Scholar**, first master of the arcane and ascended to divinity by his own power.
-- [[Trasfondo/Panteones/Glorinth\|Glorinth]], the goddess of folk magic and superchery.
+- [[Lore/Pantheons/Glorinth\|Glorinth]], the goddess of folk magic and superchery.
 
 ## Kingdoms and States
 
 The various legal units throughout Oreka
 >[!example]+ Glastra
-> - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - The central region of Glastra, located in the valley of the same name.
->	- [[Regiones/Glastra/Lakua/Riza\|Riza]] - The continent's flagship city, the political and commercial centre.
->	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]] - The lake, the largest lake in the world, whose waters dominate the landscape.
->- [[Regiones/Glastra/Ieró\|Ieró]] - The capital of the Church of Aureon, crowned by the imposing [[Sanctum\|Sanctum]] Palace.
->- [[Regiones/Glastra/Haizea\|Haizea]] - The land of cliffs and high nobility.
->- [[Regiones/Glastra/Kertutai\|Kertutai]] - the hive of the [[Especies/Kitraki\|Kitraki]].
->- [[Regiones/Glastra/Harana\|Harana]] - the forbidden valley.
->- [[Regiones/Glastra/Tisaran Theocracy\|Tisaran Theocracy]] - the kingdom that the [[Especies/Zaharak\|Zaharak]] forged for themselves.
->- [[Regiones/Glastra/Irrigos\|Irrigos]] - The Dominion of the Sea, a merchant Dominion whose mighty navy dominates the shipping lanes.
->- [[Regiones/Glastra/Bardhore\|Bardhore]] - The ancestral home of the dwarves, who have ruled both above and below the mountains for millennia.
->- [[Regiones/Glastra/Demenor\|Demenor]] - The Old Empire; today, a young republic relearning how to walk before aspiring to run.
->- [[Regiones/Glastra/Cínere\|Cínere]] - land of contrasts: mighty rivers and lush jungles coexist with arid deserts and vast salt flats.
->- [[Regiones/Glastra/Evisnos\|Evisnos]] - A region of hills and dragons. Inhabited mostly by Dragonborn, its Governor, Ilmathar, is an old and benevolent bronze dragon.
->- [[Regiones/Glastra/The Shires\|The Shires]] - A region criss-crossed by rivers, lakes and deltas, divided into zones of different sizes, inhabitants and cultures. United only by a pact and a common will to work together.
->- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]] - Known as the _Southern Frontier_, it's a country of temperate climates, fertile valleys and a culture proud of its independence. For centuries it has waged an intermittent war with the Empire of [[Regiones/Tomoe/Ergo\|Ergo]], a conflict that culminated twenty years ago in the loss of the [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], today under Ergonian rule.
->- [[Regiones/Glastra/Maraton/Marathon\|Marathon]] - The City of Festivals: famous for its coastline and tourist destinations... and for a suitably flexible legality.
->- [[Regiones/Glastra/Eldaren\|Eldaren]] home of the _Eldarenelin_, Elves of the Stars. Wary and jealous of their borders; few have seen their mountainous forests up close and lived to tell the tale.
->- [[Regiones/Glastra/Ithiren\|Ithiren]] - land of the _Ithirenelin_, Elves of the Moons. Most friendly to other races among elvenkind, their beautiful silver kingdom welcomes visitors, though they are wary of those who stay.
+> - [[Regions/Glastra/Lakua/Lakua\|Lakua]] - The central region of Glastra, located in the valley of the same name.
+>	- [[Regions/Glastra/Lakua/Riza\|Riza]] - The continent's flagship city, the political and commercial centre.
+>	- [[Regions/Glastra/Lakua/Kentron\|Kentron]] - The lake, the largest lake in the world, whose waters dominate the landscape.
+>- [[Regions/Glastra/Ieró\|Ieró]] - The capital of the Church of Aureon, crowned by the imposing [[Sanctum\|Sanctum]] Palace.
+>- [[Regions/Glastra/Haizea\|Haizea]] - The land of cliffs and high nobility.
+>- [[Regions/Glastra/Kertutai\|Kertutai]] - the hive of the [[Especies/Kitraki\|Kitraki]].
+>- [[Regions/Glastra/Harana\|Harana]] - the forbidden valley.
+>- [[Regions/Glastra/Tisaran Theocracy\|Tisaran Theocracy]] - the kingdom that the [[Especies/Zaharak\|Zaharak]] forged for themselves.
+>- [[Regions/Glastra/Irrigos\|Irrigos]] - The Dominion of the Sea, a merchant Dominion whose mighty navy dominates the shipping lanes.
+>- [[Regions/Glastra/Bardhore\|Bardhore]] - The ancestral home of the dwarves, who have ruled both above and below the mountains for millennia.
+>- [[Regions/Glastra/Demenor\|Demenor]] - The Old Empire; today, a young republic relearning how to walk before aspiring to run.
+>- [[Regions/Glastra/Cínere\|Cínere]] - land of contrasts: mighty rivers and lush jungles coexist with arid deserts and vast salt flats.
+>- [[Regions/Glastra/Evisnos\|Evisnos]] - A region of hills and dragons. Inhabited mostly by Dragonborn, its Governor, Ilmathar, is an old and benevolent bronze dragon.
+>- [[Regions/Glastra/The Shires\|The Shires]] - A region criss-crossed by rivers, lakes and deltas, divided into zones of different sizes, inhabitants and cultures. United only by a pact and a common will to work together.
+>- [[Regions/Glastra/Kostakt/Kostakt\|Kostakt]] - Known as the _Southern Frontier_, it's a country of temperate climates, fertile valleys and a culture proud of its independence. For centuries it has waged an intermittent war with the Empire of [[Regions/Tomoe/Ergo\|Ergo]], a conflict that culminated twenty years ago in the loss of the [[Regions/Glastra/Kostakt/Dartza\|Dartza]], today under Ergonian rule.
+>- [[Regions/Glastra/Maraton/Marathon\|Marathon]] - The City of Festivals: famous for its coastline and tourist destinations... and for a suitably flexible legality.
+>- [[Regions/Glastra/Eldaren\|Eldaren]] home of the _Eldarenelin_, Elves of the Stars. Wary and jealous of their borders; few have seen their mountainous forests up close and lived to tell the tale.
+>- [[Regions/Glastra/Ithiren\|Ithiren]] - land of the _Ithirenelin_, Elves of the Moons. Most friendly to other races among elvenkind, their beautiful silver kingdom welcomes visitors, though they are wary of those who stay.
 
 > [!example]+ Trabia
-> - Kingdom of [[Regiones/Trabia/Adamas\|Adamas]] - A cold-swept nordic land, neighbouring the [[Regiones/Trabia/Pagos Glacier\|Pagos Glacier]]. Scarcity is common, but the communities are tough and supportive; distrust of outsiders is almost a law of nature, and not even royalty is exempt from it.
-> - [[Regiones/Trabia/Edrakos\|Edrakos]] - the Legendary Coliseum.
+> - Kingdom of [[Regions/Trabia/Adamas\|Adamas]] - A cold-swept nordic land, neighbouring the [[Regions/Trabia/Pagos Glacier\|Pagos Glacier]]. Scarcity is common, but the communities are tough and supportive; distrust of outsiders is almost a law of nature, and not even royalty is exempt from it.
+> - [[Regions/Trabia/Edrakos\|Edrakos]] - the Legendary Coliseum.
 
 >[!example]+ Tomoe
->- [[Regiones/Tomoe/Ergo\|Ergo]] - The Empire of the Sun, home of the _Anarenelin_, the Sun Elves. Their magic maintains abundance where they rule. Ergo offers unity and shared prosperity in the face of scarcity... while keeping a watchful eye on which fertile lands might need their "protection".
+>- [[Regions/Tomoe/Ergo\|Ergo]] - The Empire of the Sun, home of the _Anarenelin_, the Sun Elves. Their magic maintains abundance where they rule. Ergo offers unity and shared prosperity in the face of scarcity... while keeping a watchful eye on which fertile lands might need their "protection".
 
 >[!example]+ Serra
->- [[Regiones/Serra/Rhanok\|Rhanok]] The main island of Serra, where the Horde has established its capital, next to the headquarters of the Red Fang.
+>- [[Regions/Serra/Rhanok\|Rhanok]] The main island of Serra, where the Horde has established its capital, next to the headquarters of the Red Fang.
 
 ## The Species of Oreka
 
@@ -121,17 +121,17 @@ The cultural or physical particularities of these peoples may vary according to 
 
 - The [[Especies/Zaharak\|Zaharak]], descendants of dinosaurs.
 - The [[Especies/Kitraki\|Kitraki]], eusocial humanoid wasps.
-- The [[Trasfondo/Ancestral Lineages\|Ancestral Lineages]], are made up of individuals with special powers, which set them apart from their fellows.
+- The [[Lore/Ancestral Lineages\|Ancestral Lineages]], are made up of individuals with special powers, which set them apart from their fellows.
 - Ancient Elvish Lineages beyond the three main ones: [[Especies/The Other Elvish Races of Oreka\|The Other Elvish Races of Oreka]] 
 
 
 ## Cosmology
 
-Oreka resides in the [[Trasfondo/Cosmologia/Mundane Plane\|Mundane Plane]], as well as infinitely many other material worlds. Superimposed upon the Mundane Plane and all other planes at its level, is the **Ethereal Plane**, known as the _Limit of Souls_, which permeates them completely.
+Oreka resides in the [[Lore/Cosmology/Mundane Plane\|Mundane Plane]], as well as infinitely many other material worlds. Superimposed upon the Mundane Plane and all other planes at its level, is the **Ethereal Plane**, known as the _Limit of Souls_, which permeates them completely.
 
 The distance between the planes is not measured by physical separation, but by degree of interconnectivity. There is really no "above" or "below", no "near" or "far". However, for simplicity we will use these terms to describe their relationships.
 
-The four planes closest to the Mundane Plane are the [[Trasfondo/Cosmologia/Shadow Plane\|Shadow Plane]] or _Shadowfell_, the [[Trasfondo/Cosmologia/Fae Plane\|Fae Plane]] or _Feywild_, the [[Trasfondo/Cosmologia/Dream Plane\|Dream Plane]] and the [[Trasfondo/Cosmologia/Astral Plane\|Astral Plane]].
+The four planes closest to the Mundane Plane are the [[Lore/Cosmology/Shadow Plane\|Shadow Plane]] or _Shadowfell_, the [[Lore/Cosmology/Fae Plane\|Fae Plane]] or _Feywild_, the [[Lore/Cosmology/Dream Plane\|Dream Plane]] and the [[Lore/Cosmology/Astral Plane\|Astral Plane]].
 
 Above the World Plane are the **Benign Planes**, and beyond them rises the **Divine Plane**. The **Positive Energy Plane** permeates all these planes, much as the Ethereal Plane permeates the Mundane Plane and it's four closer ones, and it is this that groups them together under the name of the Benign Planes.
 
