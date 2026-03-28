@@ -5,7 +5,7 @@
 
 # Dikaios
 
-! [250](/img/user/Extras/Imagenes/PNJs/Dioses/Dikaios.png)
+![Dikaios.png|250](/img/user/Extras/Imagenes/PNJs/Dioses/Dikaios.png)
 
 **Titles**: The Blind Man, The Sword of Punishment, The Unbreakable Bow
 **Symbol**: Star/meteorite ascending

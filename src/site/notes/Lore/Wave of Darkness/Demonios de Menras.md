@@ -5,7 +5,7 @@
 
 # Demons of Menras
 
-The four demonic generals, under the command of the [[Lore/Wave of Darkness/Dark Lord\|Dark Lord]] during the [[Lore/Wave of Darkness/Wave of Darkness\|Wave of Darkness]]. Each of them ruled from one of the damned four [[Lore/Ancient Past/Faros de Oreka\|Faros de Oreka]] and commanded one of the various armies of darkness:
+The four demonic generals, under the command of the [[Lore/Wave of Darkness/Dark Lord\|Dark Lord]] during the [[Lore/Wave of Darkness/Wave of Darkness\|Wave of Darkness]]. Each of them ruled from one of the damned four [[Lore/Ancient Past/Lighthouses of Oreka\|Lighthouses of Oreka]] and commanded one of the various armies of darkness:
 
 | Demon | Army |
 | ------------------------------------ | --------------------------- |

@@ -5,8 +5,8 @@
 
 # Edrakos
 
-Type: Wonder of the World
-Location: South Trabia
+**Type**: [[Wonders of the World\|Wonders of the World]]
+**Location**: South Trabia
 
 The largest Colosseum in the world.
 

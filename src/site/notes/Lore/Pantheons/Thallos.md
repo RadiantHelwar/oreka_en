@@ -5,7 +5,7 @@
 
 # Thallos
 
-! [226](/img/user/Extras/Imagenes/PNJs/Dioses/Thallos.png)
+![Thallos.png|226](/img/user/Extras/Imagenes/PNJs/Dioses/Thallos.png)
 
 **Titles**: The Sprout, The Healer, the Wise Granny
 **Symbol**: A sprout with three leaves

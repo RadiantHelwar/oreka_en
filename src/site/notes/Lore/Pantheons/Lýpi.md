@@ -5,7 +5,7 @@
 
 # Lýpi
 
-! [206](/img/user/Extras/Imagenes/PNJs/Dioses/Lypy.png)
+![Lypy.png|206](/img/user/Extras/Imagenes/PNJs/Dioses/Lypy.png)
 
 **Titles**: Las Plañideras, Las Tres en Circulo, (La Llorona, la Llama, la Sonrisa)
 **Symbol**: Inverted Teardrop

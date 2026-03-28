@@ -5,7 +5,7 @@
 
 # Eiren
 
-! [400](/img/user/Extras/Imagenes/PNJs/Dioses/Eiren.png)
+![Eiren.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Eiren.png)
 
 **Titles**: The White Lady, The Bird of Peace, The White Light
 **Symbol**: An olive branch

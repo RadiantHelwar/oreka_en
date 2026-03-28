@@ -5,7 +5,7 @@
 
 # Chara
 
-! [350](/img/user/Extras/Imagenes/PNJs/Dioses/Chara.png)
+![Chara.png|350](/img/user/Extras/Imagenes/PNJs/Dioses/Chara.png)
 
 **Titles**: La Risueña, The Lady of the Links, The Lady of Wine
 **Symbol**: Overflowing Chalice

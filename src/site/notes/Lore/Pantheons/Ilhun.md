@@ -5,7 +5,7 @@
 
 # Ilhun
 
-! [400](/img/user/Extras/Imagenes/PNJs/Dioses/Ilhun.png)
+![Ilhun.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Ilhun.png)
 
 **Titles**: The Night, The Subterfuge, The Silence
 **Symbol**: Open triangle inserted in a circle

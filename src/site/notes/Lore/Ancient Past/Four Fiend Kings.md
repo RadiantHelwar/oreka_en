@@ -7,7 +7,9 @@
 
 The Four Demon Kings are:
 
-- [[Itzala\|Itzala]] - [[Faro Skia\|Faro Skia]].
-- [[Ametsa\|Ametsa]] - [[Faro Oneiros\|Faro Oneiros]].
-- [[Izarra\|Izarra]] - [[Faro Astrikos\|Faro Astrikos]].
-- [[Maitagarria\|Maitagarria]] - [[Faro Drya\|Faro Drya]].
+| Demon King      | Lighthouse              | Linked Plane                 |
+| --------------- | ----------------------- | ---------------------------- |
+| [[Itzala\|Itzala]]      | [[Skia Lighthouse\|Skia Lighthouse]]     | [[Lore/Cosmology/Shadow Plane\|Shadowfell]] |
+| [[Ametsa\|Ametsa]]      | [[Oneiros Lighthouse\|Oneiros Lighthouse]]  | [[Lore/Cosmology/Dream Plane\|Dream Plane]]              |
+| [[Izarra\|Izarra]]      | [[Astrikos Lighthouse\|Astrikos Lighthouse]] | [[Lore/Cosmology/Astral Plane\|Astral Plane]]             |
+| [[Maitagarria\|Maitagarria]] | [[Drya Lighthouse\|Drya Lighthouse]]     | [[Lore/Cosmology/Fae Plane\|Feywild]]       |

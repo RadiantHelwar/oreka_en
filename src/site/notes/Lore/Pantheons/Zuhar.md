@@ -5,7 +5,7 @@
 
 # Zuhar
 
-! [400x386](/img/user/Extras/Imagenes/PNJs/Dioses/Zuhar.png)
+![Zuhar.png|400x386](/img/user/Extras/Imagenes/PNJs/Dioses/Zuhar.png)
 
 **Titles**: The Arcanist, the Historian, the Cunning One
 **Symbol**: Double Spiral

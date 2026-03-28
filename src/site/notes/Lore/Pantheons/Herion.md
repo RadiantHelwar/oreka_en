@@ -5,7 +5,7 @@
 
 # Herion
 
-! [400](/img/user/Extras/Imagenes/PNJs/Dioses/Herion.png)
+![Herion.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Herion.png)
 
 **Titles**: The End, The Look, the Last Rest.
 **Symbol**: Squinting Eye

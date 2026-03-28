@@ -7,10 +7,10 @@
 
 The **Shadow Plane**, also known as _Shadowfell_, is one of the Planes of Existence and, more specifically, one of the four closest to the [[Lore/Cosmology/Mundane Plane\|Mundane Plane]].
 
-It exists as a direct counterpart to the [[Lore/Cosmology/Mundane Plane\|Mundane Plane]]: a reflection where the roles of light and darkness are reversed, and where matter is born of the absence of light rather than its presence. In this cosmology, Light is the natural state of the universe. Darkness is not an absence, but a phenomenon projected by stars, planets and other celestial masses.
+It exists as a direct counterpart to the [[Lore/Cosmology/Mundane Plane\|Mundane Plane]]: a reflection in which the roles of light and darkness are reversed, and where matter is born from the absence of light rather than being independent from illumination. In this cosmology, Light is the natural state of the universe. Darkness is not a mere absence, but a phenomenon projected by stars.
 
-On the Plane of Shadow, planets, stars and creatures are not sources of light, but silhouettes that break the infinite light of the universe. There, the stars radiate darkness rather than illumination, and it is that darkness that gives form to matter. Physical existence is born not of illumination, but of its absence, and all that dwells there is, in a sense, a silhouette made tangible.
+On the Shadow Plane, planets, stars, and creatures are not sources of light, but silhouettes that interrupt the infinite radiance of the universe. There, the stars radiate darkness rather than illumination, and it is this darkness that gives form to matter. Physical existence arises not from illumination, but from its absence, and all that dwells there is, in a sense, a tangible silhouette.
 
-The creatures native to the Plane of Shadow exist under these same laws. Their bodies do not reflect light: they absorb it, and their forms seem cut against the infinite radiance that fills the plane. Many visitors describe the feeling that even the living beings there are but shadows that have learned to move on their own.
+Creatures native to the Shadow Plane exist under these same laws. Their bodies do not reflect light; they absorb it, and their forms appear cut against the infinite radiance that fills the plane. Many visitors report the impression that even living beings there are merely shadows that have learned to move independently.
 
-The regions closer to the Mundane Plane, however, are much more like it, and still operate under the rules of reality that mortals know. There are settlements and visitors in this small strip of land, before they move fully into the Plane of Shadows.
+The regions closest to the Mundane Plane, however, resemble it more closely and still operate under the rules of reality familiar to mortals. Settlements and visitors exist in this narrow strip of land before fully venturing into the Plane of Shadows.

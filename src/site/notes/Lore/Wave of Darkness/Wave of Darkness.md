@@ -58,7 +58,7 @@ On 5 Defta 6953 DE, the [[Hierofante\|Hierofante]] [[Erldatum IV\|Erldatum IV]] 
 >
 >- For Aureon. For Oreka. For the Light that will not be extinguished.
 
-After the start of the war, the Dark Lord attacked the [[Lore/Ancient Past/Faros de Oreka\|Faros de Oreka]] He managed to awaken a fraction of the power of the Four Demon Kings despite Oreka's seals. These semi-liberated entities are known as the [[Lore/Wave of Darkness/Demonios de Menras\|Demonios de Menras]]. Between the Dark Lord and his Demons, they led five great armies:
+After the start of the war, the Dark Lord attacked the [[Lore/Ancient Past/Lighthouses of Oreka\|Lighthouses of Oreka]] He managed to awaken a fraction of the power of the Four Demon Kings despite Oreka's seals. These semi-liberated entities are known as the [[Lore/Wave of Darkness/Demonios de Menras\|Demonios de Menras]]. Between the Dark Lord and his Demons, they led five great armies:
 
 | Demon Army | Army |
 | ------------------------------------ | --------------------------- |

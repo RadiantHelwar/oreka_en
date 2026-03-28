@@ -5,7 +5,7 @@
 
 # The Seven Swords of Aureon
 
-The **Seven Swords of Aureon** are the armed and disciplinary arm of the Church. From their strongholds around **Sanctum**, high above **Iero**, these orders protect the holy places, defend the faith and execute the decisions of the Hierophant when words and diplomacy are no longer enough.
+The **Seven Swords of Aureon** are the armed and disciplinary arm of the Church. From their strongholds around **Sanctum**, high above **Ieró**, these orders protect the holy places, defend the faith and execute the decisions of the Hierophant when words and diplomacy are no longer enough.
 
 Although from the outside they are often perceived as seven separate orders, in reality the Swords form a single institution. All answer to the spiritual authority of the Church and share the same doctrine, but each is dedicated to specific areas of service to Aureon.
 

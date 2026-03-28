@@ -9,7 +9,7 @@
 
 ![iglesialogo.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/iglesialogo.png)
 
-The Church of Aureon is the most influential religious institution in Oreka and one of the oldest spiritual organisations in the known world. Dedicated to the worship of **Aureon**, a hero deified during his [[Lore/Ancient Past/Apoteosis\|Apoteosis]] The Church presents itself as the guardian of the faith, the defender of the mortal soul and the protector of the spiritual order of creation.
+The Church of Aureon is the most influential religious institution in Oreka and one of the oldest spiritual organisations in the known world. Dedicated to the worship of **Aureon**, a hero deified during his [[Lore/Ancient Past/Apotheosis\|Apotheosis]] The Church presents itself as the guardian of the faith, the defender of the mortal soul and the protector of the spiritual order of creation.
 
 For centuries, its authority extended far beyond the strictly religious. Kings, cities and entire nations turned to the Church for moral advice, political legitimacy or guidance in times of crisis. Although the balance of power between nations has shifted in recent centuries, the Church remains a force of enormous cultural, spiritual and diplomatic influence.
 
@@ -19,7 +19,7 @@ Its spiritual centre is in the sacred city of [[Regions/Glastra/Ieró\|Ieró]] w
 
 The faith of the Church is founded on the figure of Aureon, a hero of antiquity whose life and exploits are the subject of countless sacred stories.
 
-According to tradition, Aureon walked among mortals as a champion of mankind, defending the world against forces that threatened the balance between the planes: The [[Lore/Ancient Past/Four Fiend Kings\|Four Fiend Kings]]. After completing his work, he ascended to the Divine Plane during an event known as the [[Lore/Ancient Past/Apoteosis\|Apoteosis]] leaving the mortal world in the presence of the Tree of [[Regions/Glastra/Ilios\|Ilios]].
+According to tradition, Aureon walked among mortals as a champion of mankind, defending the world against forces that threatened the balance between the planes: The [[Lore/Ancient Past/Four Fiend Kings\|Four Fiend Kings]]. After completing his work, he ascended to the Divine Plane during an event known as the [[Lore/Ancient Past/Apotheosis\|Apotheosis]] leaving the mortal world in the presence of the Tree of [[Regions/Glastra/Ilios\|Ilios]].
 
 At the place where that farewell took place, the First Temple was erected, around which the city of Iero would later grow. It is said that the stones of that sanctuary still retain some of the divine radiance that Aureon left behind when he ascended.
 

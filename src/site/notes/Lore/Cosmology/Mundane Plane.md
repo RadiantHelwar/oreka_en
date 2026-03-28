@@ -11,6 +11,6 @@ On the mundane plane, reality follows the physical laws that mortals regard as n
 
 Unlike other planes, the reality of the World Plane is stable and persistent. Landscapes do not change at the whim of will or imagination, and extraordinary phenomena are often the result of magic, divine intervention or influences from other planes.
 
-Because of its position in cosmology, the World Plane is surrounded by other nearby planes, whose realities occasionally influence it. Dreams that filter in from the [[Lore/Cosmology/Dream Plane\|Dream Plane]] shadows creeping from the [[Lore/Cosmology/Shadow Plane\|Shadowfell]] echoes of the [[Lore/Cosmology/Fae Plane\|Fae Plane]] or visions born of the [[Lore/Cosmology/Astral Plane\|Astral Plane]] can manifest themselves briefly in the material world.
+Because of its position in cosmology, the World Plane is surrounded by other nearby planes, whose realities occasionally influence it. Dreams that filter in from the [[Lore/Cosmology/Dream Plane\|Dream Plane]], shadows creeping from the [[Lore/Cosmology/Shadow Plane\|Shadowfell]], echoes of the [[Lore/Cosmology/Fae Plane\|Fae Plane]], or visions born of the [[Lore/Cosmology/Astral Plane\|Astral Plane]] can manifest themselves briefly in the material world.
 
 However, these influences are usually weak or short-lived. For most mortals, the Mundane Plane remains a place governed by understandable rules, where the passage of time, effort and the decisions of conscious creatures shape the course of history.

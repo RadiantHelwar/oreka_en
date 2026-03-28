@@ -5,7 +5,7 @@
 
 # Polemos
 
-! [250](/img/user/Extras/Imagenes/PNJs/Dioses/Polemos.png)
+![Polemos.png|250](/img/user/Extras/Imagenes/PNJs/Dioses/Polemos.png)
 
 **Titles**: The Ancient Tradition, The Conflict, River of Blood
 **Symbol**: Mangual

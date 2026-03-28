@@ -5,7 +5,7 @@
 
 # Phos
 
-! [400](/img/user/Extras/Imagenes/PNJs/Dioses/Phos.png)
+![Phos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Phos.png)
 
 **Titles**: Morning Star, The Radiant One, Veritasi
 **Symbol**: Eight-pointed Star
