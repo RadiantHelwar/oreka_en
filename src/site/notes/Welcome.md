@@ -56,7 +56,7 @@ Other minor religions exist, and are commonly tolerated in areas where the Churc
 - Among the simpler folk, **Mill**, God of Fire and Protection, is worshipped to a greater or lesser extent. In the Ergonian Empire, Mill is known as the *Child of the Sun*.
 - Healers study **Amitera**, paragon of Healing Magic.
 - Those who dwell in the shadows mutter the name of **Roz** before their escapades.
-- Scholars of the Arcane and those who revere magic above all else cry out the name of **Kaure the Scholar**, first master of the arcane and ascended to divinity by his own power.
+- Scholars of the Arcane and those who revere magic above all else study the legacy of **Kaure the Scholar**, first master of the arcane and ascended to divinity by his own power.
 - [[Lore/Pantheons/Glorinth\|Glorinth]], the goddess of folk magic and superchery.
 
 ## Kingdoms and States
