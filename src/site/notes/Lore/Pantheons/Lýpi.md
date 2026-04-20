@@ -7,7 +7,7 @@
 
 ![Lypy.png|206](/img/user/Extras/Imagenes/PNJs/Dioses/Lypy.png)
 
-**Titles**: Las Plañideras, Las Tres en Circulo, (La Llorona, la Llama, la Sonrisa)
+**Titles**: The Mourning Ones, The Three in the Circle, (The Weeper, the Flame, the Smile)
 **Symbol**: Inverted Teardrop
 **Associated Number**: VI
 **Domains**: Sadness, Sacrifice, Mourning, Spiritual Healing

@@ -5,7 +5,7 @@
 
 # Immortal Army
 
-! [300](/img/user/Extras/Imagenes/Monstruos/sombrainmortal.jpg)
+![sombrainmortal.jpg|300](/img/user/Extras/Imagenes/Monstruos/sombrainmortal.jpg)
 
 The **Immortal Army**, commanded by [[Lore/Wave of Darkness/Skia, the Princess of Shadows\|Skia, the Princess of Shadows]] is made up of extra-planar creatures originating from the [[Lore/Cosmology/Shadow Plane\|Shadow Plane]]. They come in many forms and hierarchies, but all share a common nature.
 

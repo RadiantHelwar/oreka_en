@@ -7,7 +7,7 @@
 
 - **Capital**: [[Regions/Glastra/Valtura\|Valtura]]
 - **Government**: Marquisate vassal of [[Regions/Glastra/Ieró\|Ieró]]
-- **Royal Household**: [[Lore/Aitherion\|Aitherion]]
+- **Royal Household**: [[Lore/Ancestral Lineages/Aitherion\|Aitherion]]
 - **Inhabitants**: Humans (majority), Goliath, Owlin, Aaracroka, Fauns.
 
 Haizea was once an independent kingdom claiming descent from the first sons of Aureon. During the [[Lore/Wave of Darkness/Wave of Darkness\|Wave of Darkness]] his court supported the [[Lore/Wave of Darkness/Dark Lord\|Dark Lord]], confident in the inevitability of his victory. After his defeat, the subsequent purge eliminated the high nobility involved.

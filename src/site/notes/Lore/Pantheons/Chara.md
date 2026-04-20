@@ -7,7 +7,7 @@
 
 ![Chara.png|350](/img/user/Extras/Imagenes/PNJs/Dioses/Chara.png)
 
-**Titles**: La Risueña, The Lady of the Links, The Lady of Wine
+**Titles**: The Laughing Lady, The Lady of the Bonds, The Lady of Wine
 **Symbol**: Overflowing Chalice
 **Associated Number**: V
 **Domains**: Joy, Celebration, Love, Freedom

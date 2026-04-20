@@ -121,7 +121,7 @@ The cultural or physical particularities of these peoples may vary according to 
 
 - The [[Species/Zaharak\|Zaharak]], descendants of dinosaurs.
 - The [[Species/Kitraki\|Kitraki]], eusocial humanoid wasps.
-- The [[Lore/Ancestral Lineages\|Ancestral Lineages]], are made up of individuals with special powers, which set them apart from their fellows.
+- The [[Lore/Ancestral Lineages/Ancestral Lineages\|Ancestral Lineages]], are made up of individuals with special powers, which set them apart from their fellows.
 - Ancient Elvish Lineages beyond the three main ones: [[Species/The Other Elvish Races of Oreka\|The Other Elvish Races of Oreka]] 
 
 

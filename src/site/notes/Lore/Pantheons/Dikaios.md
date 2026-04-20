@@ -7,7 +7,7 @@
 
 ![Dikaios.png|250](/img/user/Extras/Imagenes/PNJs/Dioses/Dikaios.png)
 
-**Titles**: The Blind Man, The Sword of Punishment, The Unbreakable Bow
+**Titles**: The Unseeing, The Sword of Punishment, The Unbreakable Bow
 **Symbol**: Star/meteorite ascending
 **Associated Number**: IV
 **Domains**: Honour, Promises, Vows, Oaths, Justice
