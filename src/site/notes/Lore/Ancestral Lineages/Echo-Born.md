@@ -10,6 +10,8 @@ Descendants of the dwarven Primarchs (more text will be here)
 
 ### Echo-Born
 
+**Requirements**: Dwarf or dwarf-blooded
+
 Your voice carries the power of the ancient Primarchs, able to shape minds and reverberate through the world itself.
 
 You gain the following benefits.

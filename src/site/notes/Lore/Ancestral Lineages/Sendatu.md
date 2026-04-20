@@ -11,6 +11,8 @@ Descendants of Mill of Infinite Force, and Amitera of the Steady Hand. (more tex
 
 ### Sendatu
 
+**Requirements**: Fire Genasi of Goliath or Human descent
+
 You carry the flame of Mill, a primordial fire that both destroys and restores.
 
 You gain the following benefits.
